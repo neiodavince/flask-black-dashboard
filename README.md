@@ -10,8 +10,6 @@
 - Deployment scripts: Docker, Gunicorn / Nginx
 
 
-)
-
 <br />
 
 ## How to use it
