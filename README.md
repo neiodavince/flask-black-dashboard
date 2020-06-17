@@ -10,19 +10,7 @@
 - Deployment scripts: Docker, Gunicorn / Nginx
 
 
-> Links
-
-- [Flask Dashboard Black](https://flask-dashboard-black.appseed.us/login) - LIVE demo
-- [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - Product page
-- [Flask Dashboard Black](https://docs.appseed.us/admin-dashboards/flask-dashboard-black/) - Documentation
-- More [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
-- [Free Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **AppSeed**
-
-
-<br />
-<br />
-
-![Flask Dashboard Black - Open-Source Admin Dashboard coded in Flask by AppSeed.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-screen.png)
+)
 
 <br />
 
