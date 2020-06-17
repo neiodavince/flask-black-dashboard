@@ -8,9 +8,7 @@
 - Alembic (DB schema migrations)
 - Session-Based authentication (via **flask_login**)
 - Deployment scripts: Docker, Gunicorn / Nginx
-- **MIT License**
-- Free support via **Github** 
-- Paid Support **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
+
 
 > Links
 
